@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyPrint</string>
+
+    <string name="benchy">Testdruck-Modell</string>
+    <string name="benchy_description">Zeit zum Drucken: 1h 45min\n\nHöhe: 48mm\nBreite: 31mm\nLänge: 60mm</string>
+
+    <string name="lego_duplo">LEGO duplo 2x4</string>
+    <string name="lego_duplo_description">Zeit zum Drucken: 3h 30min</string>
+
+    <string name="lego">LEGO 2x4</string>
+    <string name="lego_description">Zeit zum Drucken: 1h 30min</string>
+
+    <string name="yoda">Yoda figure</string>
+    <string name="yoda_description">Zeit zum Drucken: 8h 30min\n\nHöhe: 90mm\nBreite: 68mm\nLänge: 77mm</string>
+
+    <string name="coming_soon">COMING SOON</string>
+
+    <string name="more_information">mehr infos</string>
+
+    <string name="ip_user_info">Geben Sie die IP Ihres Raspberry Pi\'s ein</string>
+    <string name="save_ip">IP speichern</string>
+    <string name="saved_ip">Gespeicherte IP: </string>
+
+    <string name="api_user_info">Geben Sie den API-KEY Ihres Raspberry Pi\s ein</string>
+    <string name="save_api">API-KEY speichern</string>
+    <string name="saved_api">Gespeicherter API-KEY: </string>
+
+    <string name="print">Drucken</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="succeeded_message">Hochladen erfolgreich</string>
+    <string name="error_message">Verbindungsfehler: Prüfe die Einstellungen</string>
+    <string name="cancel_message">Druckauftrag abgebrochen</string>
+
+    <string name="home">Startseite</string>
+    <string name="settings">Einstellungen</string>
+    <string name="info">Informationen</string>
+
+    <string name="operatevideotitle">Video: Wie man die App bedient</string>
+    <string name="generalvideotitle">Videos: Generelle Informationen über das 3D-Drucken</string>
+    <string name="createvideotitle">Videos: Informationen wie die App erstellt wurde</string>
+    <string name="link">Link</string>
+
+</resources>

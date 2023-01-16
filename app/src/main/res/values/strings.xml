@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">EasyPrint</string>
+
+    <string name="benchy">Benchy</string>
+    <string name="benchy_description">Time to print: 1h 45min\n\nHeight: 48mm\nWidth: 31mm\nLength: 60mm</string>
+
+    <string name="lego_duplo">LEGO duplo 2x4</string>
+    <string name="lego_duplo_description">Time to print: 3h 30min</string>
+
+    <string name="lego">LEGO 2x4</string>
+    <string name="lego_description">Time to print: 1h 30min</string>
+
+    <string name="yoda">Yoda figure</string>
+    <string name="yoda_description">Time to print: 8h 30min\n\nHeight: 90mm\nWidth: 68mm\nLength: 77mm</string>
+
+    <string name="coming_soon">COMING SOON</string>
+
+    <string name="more_information">more info</string>
+
+    <string name="ip_user_info">Type in the IP of your Raspberry Pi</string>
+    <string name="save_ip">Save IP</string>
+    <string name="saved_ip">Saved IP: </string>
+
+    <string name="api_user_info">Type in the API-KEY of your Raspberry Pi</string>
+    <string name="save_api">Save API-KEY</string>
+    <string name="saved_api">Saved API-KEY: </string>
+
+    <string name="print">Print</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="succeeded_message">Upload succeeded</string>
+    <string name="error_message">Connection error: Check settings</string>
+    <string name="cancel_message">Print job canceled</string>
+
+    <string name="home">home</string>
+    <string name="settings">settings</string>
+    <string name="info">information</string>
+
+    <string name="operatevideotitle">Video: How to operate the app</string>
+    <string name="generalvideotitle">Videos: General information about 3D-printing</string>
+    <string name="createvideotitle">Videos: Information about how the app was created</string>
+    <string name="link">Link</string>
+
+</resources>
